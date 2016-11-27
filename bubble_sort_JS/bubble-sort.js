@@ -57,3 +57,4 @@ function init(arr) {
 console.time('calculate');
 init(initArray);
 console.timeEnd('calculate');
+
